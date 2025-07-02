@@ -1,2 +1,2 @@
-vanna[chromadb,gemini,postgres]
+vanna[chromadb,gemini,postgres, mistral]
 vertexai
